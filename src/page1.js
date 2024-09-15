@@ -123,6 +123,27 @@ function Page1() {
                <stop offset="100%" stop-color="#94149f" />
             </linearGradient>
          </defs>
+         <circle cx="120" cy="120" r="110" stroke-linecap="round" strokeDasharray={val} strokeDashoffset={(val)-(((x+5)/100)*(val))}/>
+         </svg>
+       <h3>Bootstrap</h3>
+       <h2>{x+5}%</h2>
+      </div>
+     {/* ///////////////////////////////////////////////////////////////////////////////*/}
+     <div className='auto789'>
+        <div className='skill auto89'>
+           <div className='outer'>
+             <div className='inner'>
+
+             </div>
+           </div>
+        </div>
+        <svg className='svg-ele' xmlns="http://www.w3.org/2000/svg" version="1.1" width="260px" height="260px">
+         <defs>
+            <linearGradient id="GradientColor">
+               <stop offset="0%" stop-color="#14469F" />
+               <stop offset="100%" stop-color="#94149f" />
+            </linearGradient>
+         </defs>
          <circle cx="120" cy="120" r="110" stroke-linecap="round" strokeDasharray={val} strokeDashoffset={(val)-(((x+8)/100)*(val))}/>
          </svg>
        <h3>Js</h3>
@@ -169,6 +190,70 @@ function Page1() {
          </svg>
        <h3>Design</h3>
        <h2>{x}%</h2>
+      </div>
+     {/* ///////////////////////////////////////////////////////////////////////////////*/}
+     
+     <div className='auto789'>
+        <div className='skill auto89'>
+           <div className='outer'>
+             <div className='inner'>
+
+             </div>
+           </div>
+        </div>
+        <svg className='svg-ele' xmlns="http://www.w3.org/2000/svg" version="1.1" width="260px" height="260px">
+         <defs>
+            <linearGradient id="GradientColor">
+               <stop offset="0%" stop-color="#14469F" />
+               <stop offset="100%" stop-color="#94149f" />
+            </linearGradient>
+         </defs>
+         <circle cx="120" cy="120" r="110" stroke-linecap="round" strokeDasharray={val} strokeDashoffset={(val)-((x/100)*(val))}/>
+         </svg>
+       <h3>Node.js</h3>
+       <h2>{x+8}%</h2>
+      </div>
+     {/* ///////////////////////////////////////////////////////////////////////////////*/}
+     <div className='auto789'>
+        <div className='skill auto89'>
+           <div className='outer'>
+             <div className='inner'>
+
+             </div>
+           </div>
+        </div>
+        <svg className='svg-ele' xmlns="http://www.w3.org/2000/svg" version="1.1" width="260px" height="260px">
+         <defs>
+            <linearGradient id="GradientColor">
+               <stop offset="0%" stop-color="#14469F" />
+               <stop offset="100%" stop-color="#94149f" />
+            </linearGradient>
+         </defs>
+         <circle cx="120" cy="120" r="110" stroke-linecap="round" strokeDasharray={val} strokeDashoffset={(val)-((x/100)*(val))}/>
+         </svg>
+       <h3>Express.js</h3>
+       <h2>{x+9}%</h2>
+      </div>
+     {/* ///////////////////////////////////////////////////////////////////////////////*/}
+     <div className='auto789'>
+        <div className='skill auto89'>
+           <div className='outer'>
+             <div className='inner'>
+
+             </div>
+           </div>
+        </div>
+        <svg className='svg-ele' xmlns="http://www.w3.org/2000/svg" version="1.1" width="260px" height="260px">
+         <defs>
+            <linearGradient id="GradientColor">
+               <stop offset="0%" stop-color="#14469F" />
+               <stop offset="100%" stop-color="#94149f" />
+            </linearGradient>
+         </defs>
+         <circle cx="120" cy="120" r="110" stroke-linecap="round" strokeDasharray={val} strokeDashoffset={(val)-((x/100)*(val))}/>
+         </svg>
+       <h3>MongoDB</h3>
+       <h2>{x+8}%</h2>
       </div>
      {/* ///////////////////////////////////////////////////////////////////////////////*/}
         </Carousel>

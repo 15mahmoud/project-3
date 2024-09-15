@@ -1,9 +1,5 @@
 
 
-
-
-
-
 import React from 'react';
 import './App.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
@@ -30,9 +26,7 @@ function Page3() {
       </div>
      <div className='main-page3-info2'>
        <div className='main-page3-info2-logo'>
-        <h1>
-            Logo
-        </h1>
+        
        </div>
        <div className='main-page3-info2-content'>
        <Nav className="group2 main-page3-info23">
