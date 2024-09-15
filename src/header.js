@@ -102,8 +102,7 @@ function Header() {
                 <Nav.Link target='_blank' href="https://codeforces.com/profile/Mahmoud1522003"><FontAwesomeIcon icon={faCode} className='this404'/></Nav.Link>
             </div> */}
             </Nav>
-            
-         
+
             <Nav.Link className="alo4">
               <div className="alo3">
                 <h3>Let's connect</h3>
@@ -122,11 +121,11 @@ function Header() {
           <h1>
             <TypeAnimation
               sequence={[
-                "Hi! My name is Mahmoud Soliman , Front-end Devolper",
+                "Hi! My name is Mahmoud Soliman , Front-end Developer",
                 5000,
-                "Hi! My name is Mahmoud Soliman , React Devolper",
+                "Hi! My name is Mahmoud Soliman , React Developer",
                 5000,
-                "Hi! My name is Mahmoud Soliman , Back-end Node.js Devolper",
+                "Hi! My name is Mahmoud Soliman , Back-end Node.js Developer",
                 5000,
                 "",
                 1000,
